@@ -1,0 +1,11 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: REDDIT
+# ----------------------------------------------------------
+# Source: https://github.com/claytonsulby/pihole-blocklist/raw/master/block.txt
+# Copyright (c) 2023 Clayton Sulby
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 m.reddit.com
