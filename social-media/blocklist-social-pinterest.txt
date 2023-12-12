@@ -1,5 +1,5 @@
 # ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
+# PI-HOLE SOCIAL BLOCKLIST: PINTEREST
 # ----------------------------------------------------------
 # Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-instagram.txt
 # Copyright (c) 2020 Chris Pietschmann
