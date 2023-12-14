@@ -1,7 +1,7 @@
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: TINDER
 # ----------------------------------------------------------
-# Source: https://github.com/claytonsulby/pihole-blocklist/raw/master/block.txt
+# Source: https://github.com/claytonsulby/pi-hole-blocklist/raw/main/social-media/blocklist-social-tinder.txt
 # Copyright (c) 2023 Clayton Sulby
 # License: MIT License
 # ----------------------------------------------------------
