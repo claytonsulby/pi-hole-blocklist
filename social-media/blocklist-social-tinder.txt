@@ -1,0 +1,4 @@
+0.0.0.0 data.gotinder.com
+0.0.0.0 rapidfirepublishpxy.ue1az.gotinder.com
+0.0.0.0 api.gotinder.com
+0.0.0.0 tinder.com
