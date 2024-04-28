@@ -1,1 +1,17 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/claytonsulby/pi-hole-blocklist/main/social-media/blocklist-social-instagram-reels.txt
+# Copyright (c) 2024 Clayton Sulby
+# License: MIT License
+# ----------------------------------------------------------
 
+0.0.0.0 instagram/reels/.*\.com
+0.0.0.0 www.instagram/reels/.*\.com
+0.0.0.0 i.instagram/reels/.*\.com
+0.0.0.0 l.instagram/reels/.*\.com
+0.0.0.0 help.instagram/reels/.*\.com
+0.0.0.0 business.instagram/reels/.*\.com
+0.0.0.0 scontent-msp1-1.cdninstagram/reels/.*\.com
+0.0.0.0 instagram.c10r.facebook/reels/.*\.com
+0.0.0.0 graph.instagram/reels/.*\.com
